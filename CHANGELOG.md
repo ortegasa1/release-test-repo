@@ -1,3 +1,12 @@
+## [1.0.1](https://github.com/ortegasa1/release-test-repo/compare/v1.0.0...v1.0.1) (2021-09-30)
+
+
+### Bug Fixes
+
+* **dependencies:** Trying with pull request ([c18048d](https://github.com/ortegasa1/release-test-repo/commit/c18048d4dd1f6c623a355843e7997624660f2d7f))
+
+
+
 # [1.0.0](https://github.com/ortegasa1/release-test-repo/compare/v0.2.0...v1.0.0) (2021-09-30)
 
 
