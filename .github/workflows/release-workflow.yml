@@ -8,12 +8,16 @@ jobs:
     name: Release new version of MyPGS TVP
     runs-on: ubuntu-latest
     steps:
+      - name: Ckeckout code repository
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+
       - name: Conventional Changelog Action
         id: changelog
         uses: TriPSs/conventional-changelog-action@v3
         with:
           github-token: ${{ secrets.github_token }}
-          output-file: RELEASELOG.md
 
       - name: Create Release
         uses: actions/create-release@v1
