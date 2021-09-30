@@ -1,5 +1,5 @@
 #! /bin/bash
 
-echo "Hello world test #7"
+echo "Hello world test #8"
 
 exit 0
