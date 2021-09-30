@@ -1,3 +1,12 @@
+# [0.2.0](https://github.com/ortegasa1/release-test-repo/compare/v0.1.1...v0.2.0) (2021-09-30)
+
+
+### Features
+
+* Generating antoher entry in changelog ([36ef875](https://github.com/ortegasa1/release-test-repo/commit/36ef875ce31fd8f45fe5f15dd91c3cc3e5c9f561))
+
+
+
 ## [0.1.1](https://github.com/ortegasa1/release-test-repo/compare/v0.1.0...v0.1.1) (2021-09-30)
 
 
