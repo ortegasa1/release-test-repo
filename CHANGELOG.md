@@ -1,3 +1,17 @@
+# [1.0.0](https://github.com/ortegasa1/release-test-repo/compare/v0.2.0...v1.0.0) (2021-09-30)
+
+
+### Bug Fixes
+
+* **dependencies:** Change on backwards compatibility ([00f5305](https://github.com/ortegasa1/release-test-repo/commit/00f53052d67a6acdd93cb5c73ab71e50231fd2c5))
+
+
+### BREAKING CHANGES
+
+* **dependencies:** updated all dependencies
+
+
+
 # [0.2.0](https://github.com/ortegasa1/release-test-repo/compare/v0.1.1...v0.2.0) (2021-09-30)
 
 
