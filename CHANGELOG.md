@@ -1,3 +1,12 @@
+## [1.0.4](https://github.com/ortegasa1/release-test-repo/compare/v1.0.3...v1.0.4) (2021-09-30)
+
+
+### Bug Fixes
+
+* **scripts:** Modified script ([3b4c2aa](https://github.com/ortegasa1/release-test-repo/commit/3b4c2aa98f3a91916ba6bb60db5798cf7f9f6e71))
+
+
+
 ## [1.0.3](https://github.com/ortegasa1/release-test-repo/compare/v1.0.2...v1.0.3) (2021-09-30)
 
 
@@ -36,15 +45,6 @@
 ### BREAKING CHANGES
 
 * **dependencies:** updated all dependencies
-
-
-
-# [0.2.0](https://github.com/ortegasa1/release-test-repo/compare/v0.1.1...v0.2.0) (2021-09-30)
-
-
-### Features
-
-* Generating antoher entry in changelog ([36ef875](https://github.com/ortegasa1/release-test-repo/commit/36ef875ce31fd8f45fe5f15dd91c3cc3e5c9f561))
 
 
 
